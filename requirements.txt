@@ -1,6 +1,6 @@
 pandas
 streamlit
 tesseract-ocr
-libtesseract-dev
+# libtesseract-dev
 pytesseract
 opencv-python
