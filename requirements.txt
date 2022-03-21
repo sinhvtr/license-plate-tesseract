@@ -4,3 +4,4 @@ streamlit
 # libtesseract-dev
 pytesseract
 opencv-python
+matplotlib
