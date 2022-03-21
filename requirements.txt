@@ -1,0 +1,6 @@
+pandas
+streamlit
+tesseract-ocr
+libtesseract-dev
+pytesseract
+opencv-python
