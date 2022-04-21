@@ -21,5 +21,6 @@ if image_file is not None:
   # To View Uploaded Image
   img = load_image(image_file)
   st.image(load_image(image_file))
+  st.subheader('Result')
   predicted_result = pytesseract.image_to_string(img, lang ='eng')
   st.write(predicted_result)
